@@ -6,6 +6,7 @@ public class TestGit {
 		// TODO Auto-generated method stub
 System.out.println("Hi, This is the first project");
 System.out.println("Hi, This is the first update");
+System.out.println("Hi, This is the 2nd update");
 	}
 
 }
